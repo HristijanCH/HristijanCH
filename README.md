@@ -11,8 +11,8 @@
 # 📊 GitHub Stats:
 <div align="begin">
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=HristijanCH&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 48%; height: 200px; max-width: 350px; min-width: 250px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HristijanCH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 48%; height: 200px; max-width: 400px; min-width: 300px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HristijanCH&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 48%; height: 200px; max-width: 350px; min-width: 250px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HristijanCH&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 48%; height: 200px; max-width: 400px; min-width: 300px;" />
   </div>
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HristijanCH&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 80%; max-width: 600px; min-width: 300px;" />
