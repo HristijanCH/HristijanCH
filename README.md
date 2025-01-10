@@ -15,7 +15,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HristijanCH&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 48%; height: 200px; max-width: 400px; min-width: 300px;" />
   </div>
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HristijanCH&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 80%; max-width: 600px; min-width: 300px;" />
+  <div align="center">
+    
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HristijanCH&theme=dark)](https://git.io/streak-stats)
+ 
+  </div>
 </div>
 
 ## 🏆 GitHub Trophies
